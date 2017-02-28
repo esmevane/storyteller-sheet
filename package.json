@@ -1,0 +1,28 @@
+{
+  "name": "storyteller-sheet",
+  "version": "0.0.1",
+  "description": "A character sheet tracker",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --opts mocha.opts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmevane/storyteller-sheet.git"
+  },
+  "keywords": [
+    "storyteller",
+    "sheet",
+    "character"
+  ],
+  "author": "Joseph McCormick <esmevane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esmevane/storyteller-sheet/issues"
+  },
+  "homepage": "https://github.com/esmevane/storyteller-sheet#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
